@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Zhiqiang Du,Full Stack Developer.
+
+- 💬 My Blog: [Haxck's blog](https://blog.haxck.com/)
+- 📫 My Resume: [Here](https://hacknical.com/haxck/resume?locale=zh)
+
+
 [![Haxck's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxck)](https://github.com/Haxck)
 
 <!--

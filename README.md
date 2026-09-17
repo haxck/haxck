@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Zhiqiang Du,Full Stack Developer.
 
-- 💬 My Blog: [Haxck's blog](https://blog.haxck.com/)
+- 💬 My Blog: [Haxck's blog](https://haxck.com/blog/)
 - 📫 My Resume: [Here](https://hacknical.com/haxck/resume?locale=zh)
 
 
